@@ -1,7 +1,7 @@
-/* *{
-    margin: 0;
-    box-sizing: border-box;
-} */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
 
 body {
   font-family: 'Itim', cursive;
@@ -13,8 +13,8 @@ main h1 {
   margin-left: 150px;
 }
 
-.title{
-  background-image: linear-gradient(90deg, green,yellow,red,gray);
+.title {
+  background-image: linear-gradient(90deg, green, red);
   background-clip: text;
   color: transparent;
 }

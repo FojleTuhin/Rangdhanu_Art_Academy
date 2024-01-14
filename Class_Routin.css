@@ -2,6 +2,7 @@ table{
     text-align: center;
     margin: 0 auto;
     border-collapse: collapse;
+    margin-top: 100px;
     
 }
 th,td{
@@ -10,8 +11,3 @@ th,td{
   
 }
 
-table caption{
-    margin-top: 90px;
-    margin-bottom: 30px;
-
-}
